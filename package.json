@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/core": "^4.2.8",
+    "@mantine/dates": "^4.2.8",
+    "@mantine/dropzone": "^4.2.8",
+    "@mantine/form": "^4.2.8",
+    "@mantine/hooks": "^4.2.8",
+    "@mantine/modals": "^4.2.8",
+    "@mantine/next": "^4.2.8",
+    "@mantine/notifications": "^4.2.8",
+    "@mantine/prism": "^4.2.8",
+    "@mantine/spotlight": "^4.2.8",
+    "dayjs": "^1.11.3",
+    "firebase": "^9.8.2",
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-icons": "^4.4.0",
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1"
   },
   "devDependencies": {
     "eslint": "8.17.0",
